@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @justinkenramoso
 - 📫 I am an aspiring web developer.
-- I like building and designing websites.
+- I like working on both the Frontend and Backend.
